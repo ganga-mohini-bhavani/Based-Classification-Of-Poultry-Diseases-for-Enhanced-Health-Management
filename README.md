@@ -39,6 +39,7 @@ poultry_project/
 ├── poultry_disease_model.h5     # Trained CNN model
 
 ├── static/                      # Static assets (images, uploads)
+
 │   └── sample_image.jpg
 
 ├── templates/                   # HTML templates
