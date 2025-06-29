@@ -42,7 +42,9 @@ poultry_project/
 │   └── sample_image.jpg
 
 ├── templates/                   # HTML templates
+
 │   ├── index.html
+
 │   └── predict.html
 
 📷 Sample Usage
