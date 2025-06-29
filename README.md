@@ -33,28 +33,38 @@ Git & GitHub
 📁 Folder Structure
 
 poultry_project/
+
 ├── app.py                       # Flask web application
+
 ├── poultry_disease_model.h5     # Trained CNN model
+
 ├── static/                      # Static assets (images, uploads)
 │   └── sample_image.jpg
+
 ├── templates/                   # HTML templates
 │   ├── index.html
 │   └── predict.html
 
 📷 Sample Usage
+
 Train or load the model (poultry_disease_model.h5)
 
 Run the Flask app:
 
 python app.py
+
 Open your browser and go to http://127.0.0.1:5001/
+
 Navigate to the prediction page and upload an image of a chicken
+
 The system will display the predicted disease label instantly
 
 📌 Notes
 
 The dataset is from Kaggle: Poultry Diseases Dataset
+
 Ensure poultry_disease_model.h5 is present in the root project folder before running the app
+
 You can use the small_dataset folder for faster experimentation
 
 
