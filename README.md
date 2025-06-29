@@ -3,7 +3,6 @@
 This project is developed as part of a SmartBridge-guided AI/ML internship focused on applying deep learning to real-world agricultural challenges. Using Transfer Learning with MobileNetV2, the system classifies poultry diseases from images to assist farmers and veterinarians in early detection and enhanced health management.
 
 🚀 Features
-
 🧠 Transfer Learning using MobileNetV2 for efficient image classification
 🐔 Classifies Poultry Diseases like Coccidiosis, New Castle Disease, Salmonella, and Healthy
 📷 Upload an image of a chicken and get instant prediction results
