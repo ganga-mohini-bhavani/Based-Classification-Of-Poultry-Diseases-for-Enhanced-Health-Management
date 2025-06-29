@@ -16,19 +16,19 @@ This project is developed as part of a SmartBridge-guided AI/ML internship focus
 
 🛠 Technologies Used
 
-Python
+* Python
+  
+* TensorFlow & Keras
 
-TensorFlow & Keras
+* Transfer Learning (MobileNetV2)
 
-Transfer Learning (MobileNetV2)
+* Flask (Web Framework)
 
-Flask (Web Framework)
+* HTML, CSS, Bootstrap
 
-HTML, CSS, Bootstrap
+* Jupyter Notebook
 
-Jupyter Notebook (for training and testing)
-
-Git & GitHub
+* Git & GitHub
 
 📁 Folder Structure
 
@@ -47,24 +47,24 @@ poultry_project/
 
 📷 Sample Usage
 
-Train or load the model (poultry_disease_model.h5)
+* Train or load the model (poultry_disease_model.h5)
 
-Run the Flask app:
+* Run the Flask app:
 
-python app.py
+* python app.py
 
-Open your browser and go to http://127.0.0.1:5001/
+* Open your browser and go to http://127.0.0.1:5001/
 
-Navigate to the prediction page and upload an image of a chicken
+* Navigate to the prediction page and upload an image of a chicken
 
-The system will display the predicted disease label instantly
+* The system will display the predicted disease label instantly
 
 📌 Notes
 
-The dataset is from Kaggle: Poultry Diseases Dataset
+* The dataset is from Kaggle: Poultry Diseases Dataset
 
-Ensure poultry_disease_model.h5 is present in the root project folder before running the app
+* Ensure poultry_disease_model.h5 is present in the root project folder before running the app
 
-You can use the small_dataset folder for faster experimentation
+* You can use the small_dataset folder for faster experimentation
 
 
