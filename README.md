@@ -17,11 +17,17 @@ This project is developed as part of a SmartBridge-guided AI/ML internship focus
 🛠 Technologies Used
 
 Python
+
 TensorFlow & Keras
+
 Transfer Learning (MobileNetV2)
+
 Flask (Web Framework)
+
 HTML, CSS, Bootstrap
+
 Jupyter Notebook (for training and testing)
+
 Git & GitHub
 
 📁 Folder Structure
