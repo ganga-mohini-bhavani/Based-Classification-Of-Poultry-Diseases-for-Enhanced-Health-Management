@@ -16,20 +16,19 @@ Developed as part of a SmartBridge-guided AI/ML internship, this project applies
 1. Clone or download the repository.
 2. Make sure Python and required libraries are installed (`TensorFlow`, `Flask`, etc.).
 3. Place your test images in a folder (or use upload in the UI).
-4. Run the Flask app using:
-
-python app.py
 
 🧠 Model Details
-Architecture: MobileNetV2 (Transfer Learning)
 
-Input Shape: 224 x 224 x 3
+* Architecture: MobileNetV2 (Transfer Learning)
 
-Output Classes: Coccidiosis, New Castle Disease, Salmonella, Healthy
+* Input Shape: 224 x 224 x 3
 
-Accuracy: ~90%+ on validation data
+* Output Classes: Coccidiosis, New Castle Disease, Salmonella, Healthy
+
+* Accuracy: ~90%+ on validation data
 
 📝 Notes
-This folder is focused on deployment. For training code and dataset, refer to the full project repository (if applicable).
 
-Make sure to run app.py from the directory where poultry_disease_model.h5 is located.
+* This folder is focused on deployment. For training code and dataset, refer to the full project repository (if applicable).
+
+* Make sure to run app.py from the directory where poultry_disease_model.h5 is located.
