@@ -69,5 +69,6 @@ poultry_project/
 * Ensure poultry_disease_model.h5 is present in the root project folder before running the app
 
 * You can use the small_dataset folder for faster experimentation
+  
 
 
