@@ -56,7 +56,7 @@ poultry_project/
 
 * python app.py
 
-* Open your browser and go to http://127.0.0.1:5001/
+* Open your browser and go to http://127.0.0.1:5003/
 
 * Navigate to the prediction page and upload an image of a chicken
 
