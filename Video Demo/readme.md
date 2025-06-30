@@ -38,10 +38,10 @@ poultry_project/
 
 ✅ Conclusion
 
- Automated poultry disease detection system.
+* Automated poultry disease detection system.
 
- Helps farmers reduce health losses via early detection.
+* Helps farmers reduce health losses via early detection.
 
- Fast, cost-effective, and web-deployable solution.
+* Fast, cost-effective, and web-deployable solution.
 
 
